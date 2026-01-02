@@ -41,7 +41,7 @@ public class Jan2NRepeatedElementsInSize2nArray {
             nums[i] = scanner.nextInt();
         }
 
-        Solution solution = new NRepeatedElementsInSize2nArray().new Solution();
+        Solution solution = new Jan2NRepeatedElementsInSize2nArray().new Solution();
         System.out.println(solution.repeatedNTimes(nums));
 
         scanner.close();
